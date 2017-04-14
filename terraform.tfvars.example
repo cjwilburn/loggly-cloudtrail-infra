@@ -1,0 +1,4 @@
+aws_region         = "ap-southeast-1"
+user_name          = "loggly-cloudtrail-user"
+bucket_name        = "my-trails-bucket"
+trail_name         = "my-main-trail"
